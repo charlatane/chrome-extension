@@ -25,7 +25,7 @@ Clone the project
 Go to Chrome
 
 ```bash
-  go to Manage extensions > Load Unpacked > upload the folder
+  go to Chrome > Manage extensions > Load Unpacked > upload the folder
 ```
 
 Important
