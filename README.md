@@ -11,7 +11,7 @@ This is a chrome Extension that gives dad jokes whenever you click on it.
 
 ## Documentation
 
-Here is the link ti [Google's Official Documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
+Here is the link to [Chrome's Official Documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 which helped me creating this project
 
 ## Run Locally
