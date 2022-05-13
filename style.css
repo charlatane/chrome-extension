@@ -1,17 +1,32 @@
 body{
-    background-color:	#b2e5e3 !important;
+    background-color:	white !important;
     width: 400px;
     height: auto;
     display: flex;
     justify-content: center;
 }
+.wdiv{
+    text-align: center;
+}
 
-p{
+#jokePara{
     display: inline-flex;
     margin: auto 10px;
-    font-size: 22px;
-    color: rgb(128, 0, 255);
+    font-size: 18px;
+    color: #000000;
     border-radius: 6px;
-    border: 1px solid lightblue;
+    border: 1px solid green;
+    padding: 10px;
+}
+
+#Sumy{
+    display: flex;
+    justify-content: center;
+    margin: auto 10px;
+    text-align: center;
+    font-size: 22px;
+    color: #000000;
+    border-radius: 6px;
+    border: 1px solid green;
     padding: 10px;
 }
